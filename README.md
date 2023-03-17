@@ -1,2 +1,2 @@
-# Repositorio-de-prueba
-Este es un repositorio de prueba para ver si aprendi .
+Esta es una nueva prueba de como se clona un repositorio desde github
+hacias nuestra pc, convirtiendolo en un repositorio local.
